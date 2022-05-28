@@ -1,0 +1,24 @@
+{
+  "name": "ondash",
+  "version": "1.0.0",
+  "description": "dashing on coding.",
+  "main": "methods.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rdb231-com231/OnDash.git"
+  },
+  "keywords": [
+    "Dash",
+    "Fast Code",
+    "Fast"
+  ],
+  "author": "TCoP",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rdb231-com231/OnDash/issues"
+  },
+  "homepage": "https://github.com/rdb231-com231/OnDash#readme"
+}
